@@ -1,1 +1,1 @@
-<?php echo dirname($_SERVER['SCRIPT_FILENAME']); ?>
+<? echo $_SERVER['SCRIPT_FILENAME']; ?>
